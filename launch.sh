@@ -5,5 +5,5 @@ sudo killall pigpiod
 sudo pigpiod
 
 
-/home/bvtv/Documents/iotenv/bin/python3 /home/bvtv/Desktop/iot_lab01/Scripts/video_allSensors.py 
+/home/myuser/Documents/iotenv/bin/python3 /home/myuser/Desktop/iot_lab01/Scripts/video_allSensors.py 
 cd /
