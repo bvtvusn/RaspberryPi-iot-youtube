@@ -23,7 +23,7 @@ def send_to_thingspeak(api_key, field_values):
 if __name__ == "__main__":
     # SEND to Thingspeak
     toThingspeak = [55 , 66 , 77 , 88 , 99 ]
-    api_key = "EKNZFX5H01RUTCPS"
+    api_key = "EPTAMX5H01RUTCPS"
     
     
     send_to_thingspeak(api_key,toThingspeak)
